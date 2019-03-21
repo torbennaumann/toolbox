@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/DS-bank-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/colorpicker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data-fish" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my_voice_predictor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shared_data_work" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/team_number_rec" vcs="Git" />
+  </component>
+</project>
