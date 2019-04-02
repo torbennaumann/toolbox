@@ -5,4 +5,3 @@ def file_in_data(file_path):
 
     return f'{root_dir}/../../data/{file_path}'
 
-# file = file_in_data('datafolder/filename.txt')

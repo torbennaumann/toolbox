@@ -3,6 +3,7 @@ import pandas as pd
 from sklearn import preprocessing
 import numpy as np
 
+
 class Preprocessing:
     def __init__(self, name):
         self.name = name.lower()
