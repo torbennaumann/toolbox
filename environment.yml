@@ -5,6 +5,7 @@ dependencies:
 - pip
 - pip:
   - '--editable=.'
+  - boto3
   - flake8
   - flake8-quotes
   - jupyter

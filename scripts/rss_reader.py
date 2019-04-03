@@ -45,7 +45,7 @@ def get_subtext(faz):
 
 
 def save_data(faz_agg, category):
-    name = "table_" + str(datetime.datetime.now()) + ".csv"
+    name = "table_" + str(datetime.datetime.now()).replace(' ', '_').replace(':', '-') + ".csv"
 
     if category is 'aktuell':
         path = f"../data/aktuell/" + name
