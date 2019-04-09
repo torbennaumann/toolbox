@@ -1,5 +1,7 @@
 t# data dir
 data/
+new_data/
+data_frames/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
