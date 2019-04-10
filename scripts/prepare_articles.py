@@ -7,6 +7,7 @@ category = {
     8: 'technik-motor', 9: 'wissen', 10: 'reise', 11: 'beruf-chance', 12: 'aktuell'
 }
 
+
 def build_tables(category):
     raw_articles = []
     if category is 'aktuell':
@@ -31,4 +32,3 @@ if __name__ == '__main__':
         raw_faz = build_tables(value)
         frames.append(raw_faz)
         faz = pd.concat(frames, axis=0, ignore_index=True)
-        return faz
