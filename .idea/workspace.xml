@@ -2,60 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="879a08bb-67fa-4f7d-92de-44ac8d721599" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/new data/aktuell/table_2019-04-03 10:45:03.445835.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/aktuell/table_2019-04-03_14-40-56.261338.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/aktuell/table_2019-04-03_14-41-58.568225.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/aktuell/table_2019-04-03_15-00-02.870287.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/beruf-chance/table_2019-04-03 10:45:03.416542.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/beruf-chance/table_2019-04-03_14-40-56.206876.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/beruf-chance/table_2019-04-03_14-41-58.512617.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/beruf-chance/table_2019-04-03_15-00-02.817502.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/feuilleton/table_2019-04-03 10:45:03.125319.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/feuilleton/table_2019-04-03_14-40-55.634867.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/feuilleton/table_2019-04-03_14-41-57.942111.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/feuilleton/table_2019-04-03_15-00-02.183804.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/finanzen/table_2019-04-03 10:45:03.099824.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/finanzen/table_2019-04-03_14-40-55.585046.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/finanzen/table_2019-04-03_14-41-57.887514.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/finanzen/table_2019-04-03_15-00-02.135222.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/gesellschaft/table_2019-04-03 10:45:03.178017.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/gesellschaft/table_2019-04-03_14-40-55.748783.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/gesellschaft/table_2019-04-03_14-41-58.052973.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/gesellschaft/table_2019-04-03_15-00-02.325809.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/politik/table_2019-04-03 10:45:03.043452.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/politik/table_2019-04-03_14-40-55.470507.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/politik/table_2019-04-03_14-41-57.788129.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/politik/table_2019-04-03_15-00-02.020086.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/reise/table_2019-04-03 10:45:03.362083.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/reise/table_2019-04-03_14-40-56.107296.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/reise/table_2019-04-03_14-41-58.410648.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/reise/table_2019-04-03_15-00-02.706795.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/sport/table_2019-04-03 10:42:53.412572.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/sport/table_2019-04-03 10:45:03.151662.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/sport/table_2019-04-03_14-40-55.688505.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/sport/table_2019-04-03_14-41-57.995982.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/sport/table_2019-04-03_15-00-02.275032.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/stil/table_2019-04-03 10:45:03.229672.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/stil/table_2019-04-03_14-40-55.846191.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/stil/table_2019-04-03_14-41-58.158262.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/stil/table_2019-04-03_15-00-02.423931.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/technik-motor/table_2019-04-03 10:45:03.283204.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/technik-motor/table_2019-04-03_14-40-55.952275.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/technik-motor/table_2019-04-03_14-41-58.262773.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/technik-motor/table_2019-04-03_15-00-02.551940.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/wirtschaft/table_2019-04-03 10:45:03.072683.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/wirtschaft/table_2019-04-03_14-40-55.523069.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/wirtschaft/table_2019-04-03_14-41-57.837541.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/wirtschaft/table_2019-04-03_15-00-02.086830.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/wissen/table_2019-04-03 10:45:03.309103.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/wissen/table_2019-04-03_14-40-56.010732.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/wissen/table_2019-04-03_14-41-58.312047.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new data/wissen/table_2019-04-03_15-00-02.610666.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/Data Preparation.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/Load and prepare articles.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/Data Preparation - Politik.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/Data Preparation - Sport.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/Data Preparation - Wirtschaft.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/FAZ NEURAL NETWORK.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/FAZ NEURAL NETWORK.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/Test a model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Test a model.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/Webscraping-SZZ.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Webscraping-SZZ.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/prepare_articles.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/prepare_articles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/features_gewichtet_imdb.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/features_gewichtet_imdb.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/rss_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/rss_reader.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,8 +23,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/rss_reader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="58" column="39" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
+            <state relative-caret-position="524">
+              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -80,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/prepare_articles.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -119,16 +74,15 @@
         <option value="$PROJECT_DIR$/scripts/run.py" />
         <option value="$PROJECT_DIR$/src/preprocessing/preprocessing_tn.py" />
         <option value="$PROJECT_DIR$/environment.yml" />
-        <option value="$PROJECT_DIR$/scripts/rss_reader.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/scripts/prepare_articles.py" />
+        <option value="$PROJECT_DIR$/scripts/rss_reader.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="816" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -260,7 +214,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23819591" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11064129" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -271,7 +225,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49964765" visible="true" weight="0.25421688" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49964765" visible="true" weight="0.20361446" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003524" side_tool="true" weight="0.3509485" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -497,8 +451,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/rss_reader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="58" column="39" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
+        <state relative-caret-position="524">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
           </folding>
@@ -507,8 +461,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/prepare_articles.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>

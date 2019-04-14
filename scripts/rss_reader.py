@@ -62,5 +62,5 @@ if __name__ == '__main__':
             faz_agg = get_subtext(faz)
             save_data(faz_agg, value)
             print(f'Saving most recent articles for you from "{value}".')
-        except:
-            print(f'ErrorFetching: {value}')
+        except Exception as e:
+            print(f'ErrorFetching: {value} - {e}')
