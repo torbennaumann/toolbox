@@ -7,13 +7,18 @@ category = {
     8: 'technik-motor', 9: 'wissen', 10: 'reise', 11: 'beruf-chance', 12: 'aktuell'
 }
 
+purpose = {
+    1: 'data',
+    2: 'new_data'
+}
 
-def build_tables(category):
+
+def build_tables(category, purpose):
     raw_articles = []
     if category is 'aktuell':
-        path = f"../new_data/aktuell/"
+        path = f"../{purpose}/aktuell/"
     else:
-        path = f"../new_data/{category}/"
+        path = f"../{purpose}/{category}/"
 
     all_files = glob.glob(path + '*.csv')
 
@@ -29,6 +34,6 @@ def build_tables(category):
 if __name__ == '__main__':
     frames = []
     for key, value in category.items():
-        raw_faz = build_tables(value)
+        raw_faz = build_tables(value, purpose)
         frames.append(raw_faz)
         faz = pd.concat(frames, axis=0, ignore_index=True)
