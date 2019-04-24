@@ -26,7 +26,7 @@ def get_cloud(word_series):
     wordcloud = WordCloud(width=1600, height=800, max_font_size=200, stopwords=, background_color='white',
                           colormap='twilight').generate(word_series)
     plt.figure(figsize=(20, 10), )
-    plt.imshow(wordcloud, interpolation='bilinear', )
+    plt.imshow(wordcloud, interpolation='bilinear')
     plt.axis("off")
     plt.show()
     return wordcloud

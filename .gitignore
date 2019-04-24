@@ -1,6 +1,6 @@
 t# data dir
 data/
-new_data/
+train_data/
 data_frames/
 
 # Byte-compiled / optimized / DLL files
