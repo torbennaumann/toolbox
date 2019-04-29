@@ -1,5 +1,7 @@
 import pandas as pd
+from wordcloud import WordCloud
 import glob
+import matplotlib.pyplot as plt
 
 
 def train_tables(category):
@@ -40,15 +42,29 @@ def test_tables(category):
     return test_articles
 
 
-def sample_prediction(pred):
-    if pred == 1:
+def print_classification(prediction):
+    if prediction == 1:
         print('The above text belongs to the category: "Politik"')
-
-    elif pred == 2:
+    elif prediction == 2:
         print('The above text belongs to the category: "Sport"')
-
-    elif pred == 3:
+    elif prediction == 3:
         print('The above text belongs to the category: "Wirtschaft"')
-
+    elif prediction == 4:
+        print('The above text belongs to the category: "Feuilleton"')
+    elif prediction == 5:
+        print('The above text belongs to the category: "Finanzen"')
+    elif prediction == 6:
+        print('The above text belongs to the category: "Gesellschaft"')
     else:
-        print('The above text belongs to one of the other categories.')
+        print('The above text belongs to one of these categories: '
+              '"Beruf-Chance", "Reise", "Stil", "Technik-Motor" or "Wissen".')
+
+
+def get_wordcloud(df, stopwordlist):
+    wordcloud = WordCloud(width=1600, height=800, max_font_size=150, max_words=100, stopwords=stopwordlist,
+                          background_color='white',
+                          colormap='twilight').generate(df)
+    plt.figure(figsize=(15, 10))
+    plt.imshow(wordcloud, interpolation='bilinear')
+    plt.axis("off")
+    plt.show()
