@@ -44,19 +44,19 @@ def test_tables(category):
 
 def print_classification(prediction):
     if prediction == 1:
-        print('The above text belongs to the category: "Politik"')
+        print('The text above belongs to the category: "Politik"')
     elif prediction == 2:
-        print('The above text belongs to the category: "Sport"')
+        print('The text above belongs to the category: "Sport"')
     elif prediction == 3:
-        print('The above text belongs to the category: "Wirtschaft"')
+        print('The text above belongs to the category: "Wirtschaft"')
     elif prediction == 4:
-        print('The above text belongs to the category: "Feuilleton"')
+        print('The text above belongs to the category: "Feuilleton"')
     elif prediction == 5:
-        print('The above text belongs to the category: "Finanzen"')
+        print('The text above belongs to the category: "Finanzen"')
     elif prediction == 6:
-        print('The above text belongs to the category: "Gesellschaft"')
+        print('The text above belongs to the category: "Gesellschaft"')
     else:
-        print('The above text belongs to one of these categories: '
+        print('The text above belongs to one of these categories: '
               '"Beruf-Chance", "Reise", "Stil", "Technik-Motor" or "Wissen".')
 
 
